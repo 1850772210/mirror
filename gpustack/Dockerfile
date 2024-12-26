@@ -1,1 +1,1 @@
-FROM gpustack/gpustack:0.3.0
+FROM gpustack/gpustack:0.4.0
