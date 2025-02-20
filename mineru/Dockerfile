@@ -1,1 +1,1 @@
-FROM quincyqiang/mineru:0.3-models
+FROM jianjungki/mineru:latest
